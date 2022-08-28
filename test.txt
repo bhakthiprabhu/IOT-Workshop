@@ -1,0 +1,65 @@
+internet of things 
+gamification
+arduino
+raspberry pi
+led
+ldr
+push button
+potentiometer
+servomotor
+dht 11
+oled
+ultrasonic
+actuator
+address of device
+architecture
+connected home
+controller
+connectivity
+credential
+device
+discovery
+gateway
+gsm
+hosts
+iaas
+identity
+industrial internet
+interoperability
+internet of everything
+iot
+iot service
+ip
+ipv6 
+microcontroller
+sensor
+smart cities
+smart grids
+smart home
+smart meters
+software as a service
+hardware
+software
+components
+tcp/ip protocols
+bluetooth
+applications
+mcu
+jumper cables
+Automobile
+bread board
+hdmi
+Internet of Things (IoT) is a new paradigm that has changed the traditional way of living into a high tech life style. Smart city, smart homes, pollution control, energy saving, smart transportation, smart industries are such transformations due to IoT. A lot of crucial research studies and investigations have been done in order to enhance the technology through IoT. However, there are still a lot of challenges and issues that need to be addressed to achieve the full potential of IoT. These challenges and issues must be considered from various aspects of IoT such as applications, challenges, enabling technologies, social and environmental impacts etc. The main goal of this review article is to provide a detailed discussion from both technological and social perspective. The article discusses different challenges and key issues of IoT, architecture and important application domains. Also, the article bring into light the existing literature and illustrated their contribution in different aspects of IoT. Moreover, the importance of big data and its analysis with respect to IoT has been discussed. This article would help the readers and researcher to understand the IoT and its applicability to the real world.
+The Internet of Things (IoT) is an emerging paradigm that enables the communication between electronic devices and sensors through the internet in order to facilitate our lives. IoT use smart devices and internet to provide innovative solutions to various challenges and issues related to various business, governmental and public/private industries across the world. IoT is progressively becoming an important aspect of our life that can be sensed everywhere around us. In whole, IoT is an innovation that puts together extensive variety of smart systems, frameworks and intelligent devices and sensors. Moreover, it takes advantage of quantum and nanotechnology in terms of storage, sensing and processing speed which were not conceivable beforehand. Extensive research studies have been done and available in terms of scientific articles, press reports both on internet and in the form of printed materials to illustrate the potential effectiveness and applicability of IoT transformations. It could be utilized as a preparatory work before making novel innovative business plans while considering the security, assurance and interoperability.
+A great transformation can be observed in our daily routine life along with the increasing involvement of IoT devices and technology. One such development of IoT is the concept of Smart Home Systems (SHS) and appliances that consist of internet based devices, automation system for homes and reliable energy management system. Besides, another important achievement of IoT is Smart Health Sensing system (SHSS). SHSS incorporates small intelligent equipment and devices to support the health of the human being. These devices can be used both indoors and outdoors to check and monitor the different health issues and fitness level or the amount of calories burned in the fitness center etc. Also, it is being used to monitor the critical health conditions in the hospitals and trauma centers as well. Hence, it has changed the entire scenario of the medical domain by facilitating it with high technology and smart devices. Moreover, IoT developers and researchers are actively involved to uplift the life style of the disabled and senior age group people. IoT has shown a drastic performance in this area and has provided a new direction for the normal life of such people. As these devices and equipment are very cost effective in terms of development cost and easily available within a normal price range, hence most of the people are availing them [6]. Thanks to IoT, as they can live a normal life. Another important aspect of our life is transportation. IoT has brought up some new advancements to make it more efficient, comfortable and reliable. Intelligent sensors, drone devices are now controlling the traffic at different signalized intersections across major cities. In addition, vehicles are being launched in markets with pre-installed sensing devices that are able to sense the upcoming heavy traffic congestions on the map and may suggest you another route with low traffic congestion. Therefore IoT has a lot to serve in various aspects of life and technology. We may conclude that IoT has a lot of scope both in terms of technology enhancement and facilitate the humankind.
+IoT has also shown its importance and potential in the economic and industrial growth of a developing region. Also, in trade and stock exchange market, it is being considered as a revolutionary step. However, security of data and information is an important concern and highly desirable, which is a major challenging issue to deal with . Internet being a largest source of security threats and cyber-attacks has opened the various doors for hackers and thus made the data and information insecure. However, IoT is committed to provide the best possible solutions to deal with security issues of data and information. Hence, the most important concern of IoT in trade and economy is security. Therefore, the development of a secure path for collaboration between social networks and privacy concerns is a hot topic in IoT and IoT developers are working hard for this.
+Networking technologies enable IoT devices to communicate with other devices, applications, and services running in the cloud. The internet relies on standardized protocols to ensure communication between heterogeneous devices is secure and reliable. Standard protocols specify rules and formats that devices use to establish and manage networks and transmit data across those networks.
+
+Networks are built as a "stack" of technologies. A technology such as Bluetooth LE is at the bottom of the stack. While others such as such as IPv6 technologies (which is responsible for the logical device addressing and routing of network traffic) are further up the stack. Technologies at the top of the stack are used by the applications that are running on top of those layers, such as message queuing technologies.
+
+This article describes widely adopted technologies and standards for IoT networking. It also provides guidance for choosing one network protocol over another. It then discusses key considerations and challenges related to networking within IoT: range, bandwidth, power usage, intermittent connectivity, interoperability, and security.
+Proper selection of IoT networking technologies requires compromise. Selected networking technologies will impact the design of IoT devices. The considerations suggested in this article depend on many factors. For example, network range, data rate, and power consumption are all directly related. If you increase the network range or rate and volume of data that is transmitted, your IoT devices will certainly require additional power to transmit the data under those conditions.
+
+For basic home automation, the power consideration criterion is likely of low importance; the device would most likely be powered directly from a wall socket. Bandwidth limitations and drop-outs in connectivity are higher priorities. Wifi provides reasonable bandwidth and expedites the project by using commodity hardware. However, wifi is not optimized for low-power devices, making it an unwise choice for a battery-powered device.
+
+This article provides an overview of some of the most common networking protocols and technologies for IoT. It is most important to consider your requirements in light of these IoT networking challenges to find the technologies that will be the best fit for your IoT application.
